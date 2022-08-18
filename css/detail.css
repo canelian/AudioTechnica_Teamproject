@@ -10,7 +10,6 @@ figure {
   display: flex;
   justify-content: center;
   align-items: center;
-
   max-width: 1920px;
   max-height: 1920px;
 }
