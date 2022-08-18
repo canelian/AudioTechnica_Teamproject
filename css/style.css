@@ -83,6 +83,11 @@ header .empty{
 header .gnb-btn {
   width: 15px;
   height: 15px;
+  cursor: pointer;
+}
+
+header .gnb-btn-close {
+  cursor: pointer;
 }
 
 header #logo .text-logo {
