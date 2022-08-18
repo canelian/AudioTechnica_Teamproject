@@ -123,7 +123,11 @@ input[id="cb2"] {
   background-color: #eeeeee;
   margin-bottom: 15px;
   cursor: pointer;
-  border: 1px solid rgba(128, 128, 128, 0.3);
+  
+}
+.logbox .log:hover {
+  outline: 1px solid rgba(128, 128, 128, 0.5);
+  background: #d3d3d3;
 }
 
 .logbox .order{
